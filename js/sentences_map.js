@@ -1,4 +1,4 @@
-{
+window.SENTENCES_AUDIO_MAP = {
   "Letter Ll. Sound l. Find the word that starts with Ll.": "assets/audios/sentences/frog_prompt_ll.mp3",
   "Letter Ll. Sound /l/. Find the word that starts with Ll.": "assets/audios/sentences/frog_prompt_ll.mp3",
   "Letter Ll. Find the word that starts with Ll": "assets/audios/sentences/frog_intro_ll.mp3",
@@ -18,4 +18,4 @@
   "Look at the big wooden gate beside the lake. What is beside the lake?": "assets/audios/sentences/frog_act_af560e0c.mp3",
   "What can the boat do on the lake? The little sailboat can float on the blue lake.": "assets/audios/sentences/frog_act_41825424.mp3",
   "The little sailboat can float on the blue lake. What can the boat do on the lake?": "assets/audios/sentences/frog_act_41825424.mp3"
-}
+};
